@@ -13,6 +13,7 @@ github.com/willianjean﻿
 
 3-Claudio
 github.com/pclaudio﻿
+Git direto para a prática! Evento muito bom. 
 
 4-Mauro
 github.com/maurodenison﻿
