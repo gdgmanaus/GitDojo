@@ -34,7 +34,7 @@ github.com/geiciane﻿
 
 10-Cristiane
 github.com/freirecristiane﻿
-
+Bora ver se agora eu entendo essa parada!
 11-Marcelo
 github.com/Itapirema﻿
 
@@ -43,6 +43,7 @@ github.com/rbmarquesuea﻿
 
 13-Jeferson
 github.com/jbalves﻿
+Comments: "Great Course :). I can helping my friends. Please repeat this event"
 
 14-Daniel
 github.com/DanielFreire1984﻿
