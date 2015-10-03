@@ -34,7 +34,7 @@ github.com/geicianeï»¿
 
 10-Cristiane
 github.com/freirecristianeï»¿
-
+Bora ver se agora eu entendo essa parada!
 11-Marcelo
 github.com/Itapiremaï»¿
 Aprendi mesmo com vocês. Uma experiencia fantástica! Parabéns! Preciso de um pc melhor rs
