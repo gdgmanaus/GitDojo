@@ -1,0 +1,66 @@
+//TODO Git Commands
+
+//Configure
+man git-config
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --list
+
+
+//In you own repo
+//Create a sample repo
+cd meusprojetos
+mkdir dojogitgdgmanaus
+cd dojogitgdgmanaus
+man git-init
+git init
+git status
+create file.txt
+git add file.txt
+git status
+git commit -m "Meu primeiro commit."
+create file2.txt
+git add *.txt
+git commit -m "Todos arquivos txt."
+git log
+git remote add origin https://github.com/<your user>/dojogitgdgmanaus.git
+create repo at github.com
+git pull origin master
+git push -u origin master
+
+//Change my repo
+change code
+git diff
+git status
+git add myfilechanged.txt
+git commit -m "Alterei meu arquivo para fazer ... porque ..."
+git push -u origin master
+
+
+//Working in a Team, same file
+cd meusprojetos
+git clone https://github.com/gdgmanaus/GitDojo.git GitDojo
+change file README.md (include some comment about this event)
+git add README.md
+git pull origin master
+git commit -m "Include my comment about this event"
+git push origin master
+
+
+//Working in a Team, diferent file
+create file <githubusername>.txt (write some crazy idea to make Manaus a better City to live)
+
+git add <githubusername>.txt
+git pull origin master
+git commit -m "Inclui <githubusername>.txt"
+git push -u origin master
+git status
+
+
+//Github with Android Studio
+
+//Review
+https://try.github.io/levels/1/challenges/1
+
+//Go further with Branches
+http://pcottle.github.io/learnGitBranching/
