@@ -34,7 +34,7 @@ github.com/geiciane﻿
 
 10-Cristiane
 github.com/freirecristiane﻿
-
+Bora ver se agora eu entendo essa parada!
 11-Marcelo
 github.com/Itapirema﻿
 
