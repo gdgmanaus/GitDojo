@@ -37,6 +37,7 @@ github.com/freirecristianeï»¿
 
 11-Marcelo
 github.com/Itapiremaï»¿
+Aprendi mesmo com vocês. Uma experiencia fantástica! Parabéns! Preciso de um pc melhor rs
 
 12-Robson
 github.com/rbmarquesueaï»¿
