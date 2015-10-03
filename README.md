@@ -38,12 +38,14 @@ github.com/freirecristianeï»¿
 Bora ver se agora eu entendo essa parada!
 11-Marcelo
 github.com/Itapiremaï»¿
+Aprendi mesmo com vocês. Uma experiencia fantástica! Parabéns! Preciso de um pc melhor rs
 
 12-Robson
 github.com/rbmarquesueaï»¿
 
 13-Jeferson
 github.com/jbalvesï»¿
+Comments: "Great Course :). I can helping my friends. Please repeat this event"
 
 14-Daniel
 github.com/DanielFreire1984ï»¿
