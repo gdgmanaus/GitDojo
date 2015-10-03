@@ -23,6 +23,7 @@ github.com/fdolzanes1
 
 6-Gleides
 github.com/gleidesigner﻿
+Muito bom o curso de controle de versão!#gdgmanaus
 
 7-Alessandro
 github.com/andrade30﻿
@@ -52,3 +53,4 @@ github.com/DanielFreire1984﻿
 
 15-Elias
 github.com/EliasJnr
+evolutiiionn
