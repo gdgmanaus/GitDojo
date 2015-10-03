@@ -22,7 +22,7 @@ github.com/fdolzanes1
 
 6-Gleides
 github.com/gleidesigner﻿
-
+Muito bom o curso de controle de versão!#gdgmanaus
 7-Alessandro
 github.com/andrade30﻿
 
