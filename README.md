@@ -1,4 +1,4 @@
-# GitDojo
+﻿# GitDojo
 Pratica realizada pelo GDG Manaus para compartilhar conhecimentos básicos de Git.
 
 Gabriel
@@ -37,9 +37,10 @@ github.com/geiciane﻿
 10-Cristiane
 github.com/freirecristiane﻿
 Bora ver se agora eu entendo essa parada!
+
 11-Marcelo
 github.com/Itapirema﻿
-Aprendi mesmo com voc�s. Uma experiencia fant�stica! Parab�ns! Preciso de um pc melhor rs
+Aprendi mesmo com vocês. Uma experiencia fantástica! Parabéns! Preciso de um pc melhor rs
 
 12-Robson
 github.com/rbmarquesuea﻿
